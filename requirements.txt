@@ -1,0 +1,5 @@
+open-cv
+numpy
+pandas
+matplotlib
+seaborn
